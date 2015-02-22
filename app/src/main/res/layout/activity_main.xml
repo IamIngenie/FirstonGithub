@@ -23,9 +23,8 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="@string/TitleString"
         android:id="@+id/textView2"
+        android:background="white"
         android:layout_alignParentTop="true"
-        android:layout_alignRight="@+id/textView"
-        android:layout_alignEnd="@+id/textView"
-        android:background="white" />
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
